@@ -50,7 +50,7 @@ const INFO = {
 				"Developed and implemented a robust deep learning project for spine fracture detection with my team.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Arunesh-Tiwari/spine-fracture-detection",
 		},
 
 		{
