@@ -34,49 +34,41 @@ const INFO = {
 	},
 
 	projects: [
+
 		{
-			title: "Project 1",
+			title: "Bank Customer Segmentation - EDA Project",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Unsupervised Machine Learning for Bank Customer Segmentation.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Arunesh-Tiwari/Bank_Customer_Segmentation",
 		},
 
 		{
-			title: "Project 2",
+			title: "Vertebra Vision: Spine Fracture Detection",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Developed and implemented a robust deep learning project for spine fracture detection with my team.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "Bank Loan - EDA Project",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"This project on exploratory data analysis on bank loan was build by me and my friend for an hackathon. We used multiple libraries and tools and analysed data by using various ML algorithms.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Arunesh-Tiwari/EDA-Bank-Loan",
 		},
 
 		{
-			title: "Project 4",
+			title: "Boston House Prediction - EDA Project",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Boston House Price Prediction is a machine learning project that uses exploratory data analysis (EDA) to understand housing features and predict house prices in Boston.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Arunesh-Tiwari/bostonhousepricing",
 		},
 	],
 };
