@@ -51,7 +51,7 @@ const Contact = () => {
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							If you prefer to connect on
+							. If you prefer to connect on
 							social media, you can find me on{" "}
 							<a
 								href={INFO.socials.linkedin}
@@ -60,7 +60,7 @@ const Contact = () => {
 							>
 								{INFO.socials.linkedin}
 							</a>
-							. I post regular updates and engage with my
+							I post regular updates and engage with my
 							followers there, so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
 							to hearing from you!
