@@ -2,12 +2,12 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "10 Aug 2024",
+		title: "Business Analytics 101: Your Essential Guide",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"Delves into the role of a business analyst, likening their work to that of a detective who uses data to uncover insights and solve business challenges. The guide emphasizes the importance of data collection from various sources to understand market performance. It outlines the key responsibilities of a Business Intelligence (BI) Analyst, such as investigating historical data, managing business intelligence, and developing dashboards. The article also breaks down the four types of analytics—Descriptive, Diagnostic, Predictive, and Prescriptive—highlighting their distinct roles in addressing business problems. Additionally, it stresses the importance of project management in business analytics, explaining how a well-crafted project charter is crucial for setting project objectives, scope, and deliverables. Through this comprehensive guide, Arunesh provides valuable insights for those looking to understand and excel in the field of business analytics.",
 		keywords: [
-			"The Benefits of Cloud Computing",
+			"Business Analytics",
 			"Arunesh",
 			"Arunesh T",
 			"Arunesh Tiwari",
@@ -39,27 +39,6 @@ function article_1() {
 	};
 }
 
-function article_2() {
-	return {
-		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
-		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
-		style: ``,
-		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Arunesh",
-			"Arunesh T",
-			"Arunesh Tiwari",
-		],
-		body: (
-			<React.Fragment>
-				<h1>Content of article 2</h1>
-			</React.Fragment>
-		),
-	};
-}
-
-const myArticles = [article_1, article_2];
+const myArticles = [article_1];
 
 export default myArticles;
